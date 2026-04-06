@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         // Change 'yourusername' to your actual Docker Hub ID
-        DOCKER_USER = 'yourusername'
+        DOCKER_USER = 'srsuhtir'
         IMAGE_NAME = 'myapp'
         IMAGE_TAG = 'v1'
     }
